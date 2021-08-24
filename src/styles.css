@@ -1,0 +1,20 @@
+html,
+body {
+    margin: 0;
+    background-color: #ddd;
+}
+
+:root {
+    --principal: #e1e1e1;
+}
+
+.contenedor-imagen {
+    position: fixed;
+    top: .2rem;
+    right: .2rem;
+    padding: 1rem 3rem;
+}
+
+img {
+    width: 150px;
+}
